@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="61" started-at="2020-07-12T11:16:49Z" finished-at="2020-07-12T11:16:49Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="61" started-at="2020-07-12T11:16:49Z" finished-at="2020-07-12T11:16:49Z">
+      <class name="org.testing.TestCases.TestCase8">
+        <test-method status="PASS" signature="TC8()[pri:0, instance:org.testing.TestCases.TestCase8@7dc7cbad]" name="TC8" duration-ms="35" started-at="2020-07-12T16:46:49Z" finished-at="2020-07-12T16:46:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC8 -->
+      </class> <!-- org.testing.TestCases.TestCase8 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

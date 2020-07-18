@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Api_framwork_14thjune]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="org.testing.TestCases.GetRequestAllData">
+        <methods>
+          <include name="TC3"/>
+        </methods>
+      </class> <!-- org.testing.TestCases.GetRequestAllData -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Api_framwork_14thjune] -->
